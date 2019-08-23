@@ -1,0 +1,12 @@
+{
+  "name": "csv-parse",
+  "version": "1.0.0",
+  "description": "Traverse csv file in the format [row-i++, column-i++]",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "node app.js"
+  },
+  "author": "Mayowa Ojo",
+  "license": "ISC"
+}
